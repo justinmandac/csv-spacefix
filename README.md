@@ -1,7 +1,7 @@
 # CSV SPACEFIX
 
 ### Dependencies
-* NodeJS
+* NodeJS >= v5.6.0 
 
 ### Usage
 1. Place files to be processed in `/in`
